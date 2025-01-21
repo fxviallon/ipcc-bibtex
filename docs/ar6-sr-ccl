@@ -1,0 +1,25 @@
+
+#Full Report
+
+@book{shukla_climate_2019,
+	address = {Cambridge, UK and New York, NY, USA},
+	title = {Climate {Change} and {Land}: an {IPCC} special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems},
+	url = {https://doi.org/ 10.1017/9781009157988},
+	publisher = {Cambridge University Press},
+	editor = {Shukla, Priyadarshi and Skea, Jim and Calvo Buendia, Eduardo and Masson-Delmotte, Valérie and Pörtner, Hans-Otto and Roberts, Debra and Zhai, Panmao and Slade, Raphael and Connors, Sarah and van Diemen, Renée and Ferrat, Marion and Haughey, Eamon and Luz, Sigourney and Neogi, Suvadip and Pathak, Minal and Petzold, Jan and Portugal Pereira, Joana and Vyas, Purvi and Huntley, Lizzie and Kissick, Katie and Belkacemi, Malek and Malley, Juliette},
+	year = {2019},
+}
+
+# Summary for policy makers
+
+@incollection{ipcc_summary_2019,
+	address = {Cambridge, UK and New York, NY, USA},
+	title = {Summary for {Policymakers}},
+	url = {https://doi.org/10.1017/9781009157988.001},
+	booktitle = {Climate {Change} and {Land}: an {IPCC} special report on climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems},
+	publisher = {Cambridge University Press},
+	author = {IPCC},
+	editor = {Shukla, Priyadarshi and Skea, Jim and Calvo Buendia, Eduardo and Masson-Delmotte, Valérie and Pörtner, Hans-Otto and Roberts, Debra and Zhai, Panmao and Slade, Raphael and Connors, Sarah and van Diemen, Renée and Ferrat, Marion and Haughey, Eamon and Luz, Sigourney and Neogi, Suvadip and Pathak, Minal and Petzold, Jan and Portugal Pereira, Joana and Vyas, Purvi and Huntley, Lizzie and Kissick, Katie and Belkacemi, Malek and Malley, Juliette},
+	year = {2019},
+	}
+
